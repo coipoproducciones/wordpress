@@ -1,3 +1,5 @@
+//Forzar https desde el .htaccess
+
 <ifModule mod_rewrite.c>
 RewriteEngine On
 RewriteCond %{HTTPS} !=on

@@ -11,3 +11,5 @@ add_action ('admin_bar_menu', function ($admin_cp) {
         ),
     ));
 }, 100, 1);
+
+//AGREGAR AL FUNCTIONS.PHP DEL TEMA
